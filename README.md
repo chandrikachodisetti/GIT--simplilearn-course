@@ -9,7 +9,9 @@ whats in it for me
 
 --> Git configuration levels
 
---> step to configure in your system Before going to git Why u need git?
+--> step to configure in your system
+
+Before going to git Why u need git?
 ===================================
 let us begin with example to help u understand better
 that example is Nasa AMES research center
