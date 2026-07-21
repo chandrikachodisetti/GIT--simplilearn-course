@@ -46,6 +46,7 @@ how does  nextgen resolve them
 --> git to the rescue
 
 --> NEXTGEN uses git
+what does git do 
 
 
 
